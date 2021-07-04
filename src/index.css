@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mirza&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Charmonman&display=swap');
+body {
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+  transition: all .5s linear;
+   /*background-color: #2e4d7a;*/
+  /*#132846*/
+}
+ body.dark{
+  background-color: #2e4d7a !important;
+  scroll-behavior: smooth;
+ }
+ 
+ 
+ #title{
+  font-family: 'Courier New', Courier, monospace;
+}
+/* Rectangle 1 */
+@media screen and (max-width: 360px) {
+  .projectTypo{
+    font-size: 12px;
+  }
+}
+ 

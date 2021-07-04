@@ -1,0 +1,9 @@
+a{
+    text-decoration: none;
+}
+
+@media (max-width: 368px) {
+    .projectTypo{
+        font-size: 10px !important;
+    } 
+ }
