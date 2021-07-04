@@ -14,7 +14,7 @@ const Navbar = () => {
       <Navbarcontainer id="navbar" className="white">
         {/*brand name*/}
         <Brand>
-          <p className="brand">Lokesh Garia</p>
+          <p className="brand">Oscar Garia</p>
         </Brand>
         {/*navbar list */}
         <NavbarList id="navList" className= {icon ? "nav_menu" : "  nav_menu active"}>
