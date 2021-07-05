@@ -314,7 +314,7 @@ const Intro = () => {
                   </ContentIcon>
                   <ButtonDiv id="btndiv">
                    <Button variant="contained">  <Link to="contact" smooth={true} >Contact</Link></Button> 
-                     <Button variant="contained"> <a href="https://docs.google.com/document/d/14bntfbg4EuDJL6GIOJCNv8rqRGJRVaT2Bd_uuyjjv4o/edit?usp=sharing">My Resume</a> </Button>
+                     <Button variant="contained"> <a href="https://drive.google.com/file/d/1Acmtxe9CcCgRayeJNycbwbhYAWvE9OeV/view?usp=sharing">My Resume</a> </Button>
                   </ButtonDiv>
                 </Namecontainer>
               </IntroContent>
