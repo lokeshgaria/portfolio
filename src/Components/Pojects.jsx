@@ -19,6 +19,7 @@ import covid1 from "./images/covidHard.png";
 import covid2 from "./images/covidEasy.png";
 import Practise from "./images/react.png";
 import bgmi from "./images/bgmi.png";
+import discord from "./images/discord.png"
 import tesla from "./images/tesla.png";
 import styled from "styled-components";
 
@@ -57,7 +58,7 @@ const ProjectData = [
     subtitle: "Landing-page",
     content: " Built the Tesla Clone with ReactJS (Redux + Styled Components)!",
     image: tesla,
-    url : "https://app.netlify.com/sites/teslaclonereact/overview",
+    url : "https://teslaclonereact.netlify.app/",
   },
   {
     title: "PUBG",
@@ -65,6 +66,13 @@ const ProjectData = [
     content: "Built the Battlegrounds Mobile India website clone using React",
     image: bgmi,
     url : "https://bgmiclone.netlify.app/",
+  },
+  {
+    title: "Discord",
+    subtitle: "Clone",
+    content: "Creted Discord clone using React , Redux-toolkit with firebase for database management ",
+    image: discord,
+    url : "https://lokeshgariaportfolio.netlify.app/",
   },
 ];
 const Pojects = () => {
