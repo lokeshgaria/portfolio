@@ -72,7 +72,7 @@ const ProjectData = [
     subtitle: "Clone",
     content: "Creted Discord clone using React , Redux-toolkit with firebase for database management ",
     image: discord,
-    url : "https://lokeshgariaportfolio.netlify.app/",
+    url : "https://discord-clone-e8161.web.app/",
   },
 ];
 const Pojects = () => {
