@@ -16,6 +16,7 @@ import {
 //projects images
 import amazon from "./images/amazon.png";
 import covid1 from "./images/covidHard.png";
+import redclifee from "./images/screenshot.png"
 import covid2 from "./images/covidEasy.png";
 import Practise from "./images/react.png";
 import bgmi from "./images/bgmi.png";
@@ -25,6 +26,14 @@ import styled from "styled-components";
 
 //project array data
 const ProjectData = [
+ 
+  {
+    title: "Redcliffelabs",
+    subtitle: "Live Project",
+    content: "Redcliffe Labs is one of the best diagnostic centres & diagnosis labs in India that provides Full body Checkup .",
+    image: redclifee,
+    url : "https://redcliffelabs.com/",
+  },
   {
     title: "Amazon",
     subtitle: "Clone",

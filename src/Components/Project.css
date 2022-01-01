@@ -11,6 +11,8 @@ a{
  .cardcontianer{
  
     min-height: 459px;
+    max-height:459px ;
+    overflow-y: scroll;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
