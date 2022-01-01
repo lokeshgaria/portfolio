@@ -28,7 +28,7 @@ const ProjectData = [
   {
     title: "Amazon",
     subtitle: "Clone",
-    content: "A full E-commerce experience: the frontend I developed with React and using Context API to manage state. The backend I handled using Firebase to deploy the API url. Also I implemented Payment Process with STRIPE.",
+    content: "A full E-commerce experience: the frontend I developed with React and using Context API to manage state.",
     image: amazon,
     url : "https://kind-brattain-d9ca3a.netlify.app",
   },
@@ -84,7 +84,7 @@ const Pojects = () => {
        <Grid container spacing="2">
           {ProjectData.map((project) => (
             <Grid item lg={3}>
-              <Card>
+              <Card className="cardcontianer" >
                 <CardActionArea  >
                   <CardMedia
                     component="img"

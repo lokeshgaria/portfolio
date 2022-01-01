@@ -132,7 +132,7 @@ const Contact = () => {
                               />
                             </svg>
                           </Icon>
-                          <DetailData>+91 - 8076298443</DetailData>
+                          <DetailData> <a href="tel:+918076298443" style={{color : "#fff"}}>+91 - 8076298443</a></DetailData>
                         </DetailRow>
 
                         <DetailRow>
