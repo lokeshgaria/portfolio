@@ -79,7 +79,7 @@ const ProjectData = [
   {
     title: "Discord",
     subtitle: "Clone",
-    content: "Creted Discord clone using React , Redux-toolkit with firebase for database management ",
+    content: "Created Discord clone using React , Redux-toolkit with firebase for database management ",
     image: discord,
     url : "https://discord-clone-e8161.web.app/",
   },
@@ -87,7 +87,7 @@ const ProjectData = [
 const Pojects = () => {
   return (
     <Container id="projects">
-      <Typography variant="h4">M Projects</Typography>
+      <Typography variant="h4">My Projects</Typography>
       <Box pt={3} pb={13}>
        <ContainerProject>
        <Grid container spacing="2">
